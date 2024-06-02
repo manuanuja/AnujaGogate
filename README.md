@@ -1,4 +1,3 @@
-![MasterHead](https://camo.githubusercontent.com/2e23eadb7dca33af997b793f89ca195fb1be47a4e4f278b5c028ae102c8d8c33/68747470733a2f2f7777772e61726b61736f667477617265732e636f6d2f626c6f672f77702d636f6e74656e742f75706c6f6164732f323032312f30312f6865616465725f62616e6e65722d322e6a7067)
 <h1 align="center">Hi 👋, I'm Anuja Gogate</h1>
 <h3 align="center">A passionate python developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1400/0*yBvA5CnEX3Sd4aod.gif">
